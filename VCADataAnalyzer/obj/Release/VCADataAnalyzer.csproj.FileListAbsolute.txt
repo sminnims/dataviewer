@@ -1,0 +1,13 @@
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\bin\Release\VCADataAnalyzer.exe.config
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\bin\Release\VCADataAnalyzer.exe
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\bin\Release\VCADataAnalyzer.pdb
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.MainForm.resources
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.Properties.Resources.resources
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.ReportView.resources
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.csproj.GenerateResource.Cache
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.exe
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.pdb
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\bin\Release\LoginDB.mdf
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\bin\Release\LoginDB_log.ldf
+C:\Users\smkim5.CKBSDOMAIN\documents\visual studio 2015\Projects\VCADataAnalyzer\VCADataAnalyzer\obj\Release\VCADataAnalyzer.LoginForm.resources
