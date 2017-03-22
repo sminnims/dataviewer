@@ -21,6 +21,7 @@ namespace VCADataAnalyzer
 
         private DateTime fD, eD;
 
+
         private ChartSelect chartEnum;
         private Chart mainChart;
         private Chart subChart;
